@@ -6,7 +6,7 @@
 # catalog-version 1.0
 Name:		texlive-germkorr
 Version:	1.0
-Release:	4
+Release:	5
 Summary:	Change kerning for german quotation marks
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/germkorr
