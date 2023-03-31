@@ -1,6 +1,6 @@
 Name:		texlive-germkorr
 Version:	15878
-Release:	1
+Release:	2
 Summary:	Change kerning for german quotation marks
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/germkorr
