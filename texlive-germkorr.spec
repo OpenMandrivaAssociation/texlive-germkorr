@@ -3,7 +3,7 @@ Version:	15878
 Release:	2
 Summary:	Change kerning for german quotation marks
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/germkorr
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/germkorr
 License:	GPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/germkorr.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/germkorr.doc.r%{version}.tar.xz
